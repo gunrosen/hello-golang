@@ -7,6 +7,7 @@ import (
 )
 
 // https://codeforces.com/problemset/problem/706/B
+// TODO: Should keep tree balance
 
 type Tree struct {
 	root *Node
