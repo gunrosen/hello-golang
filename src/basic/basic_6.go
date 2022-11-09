@@ -9,7 +9,7 @@ import (
 // Xuat ra man hinh tat ca con so thu tu 1 -> n
 // using worker pool
 
-const numberOfWorker = 1
+const numberOfWorker = 5
 
 var workers = [numberOfWorker][]int{}
 
